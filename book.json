@@ -1,7 +1,7 @@
 {
   "title": "工作笔记",
   "description": "",
-  "author": "weiliang",
+  "author": "cnzf",
   "output.name": "site",
   "language": "zh-hans",
   "gitbook": "3.2.3",
@@ -39,7 +39,7 @@
       "copyButtons": true
     },
     "tbfed-pagefooter": {
-      "copyright": "Copyright © weiliang 2021",
+      "copyright": "Copyright © cnzf1 2024",
       "modify_label": "本书发布时间：",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
